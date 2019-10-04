@@ -7,7 +7,7 @@ import { connect } from 'react-redux';
 import Header from '../../View/Header/Header';
 import LoggedInHeader from '../../View/Header/LoggedInHeader/LoggedInHeader';
 import LoggedInHeaderResponsive from '../../View/Header/LoggedInHeaderResponsive/LoggedInHeaderResponsive';
-import IsSearchResultFound from '../../View/IsSearchResultFound./IsSearchResultFound';
+import IsSearchResultFound from '../../View/IsSearchResultFound/IsSearchResultFound';
 import * as searchFunctionalityActions from '../../../action/searchFunctionality/searchFunctionalityAction';
 import LandingPageHeader from '../../View/Header/LandingPageHeader/LandingPageHeader';
 import MakeHeaderResponsive from '../../View/Header/MakeHeaderResponsive/MakeHeaderResponsive';
